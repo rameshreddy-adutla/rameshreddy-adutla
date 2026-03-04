@@ -11,7 +11,6 @@ Currently working on:
 
 - 👨🏻‍💻 Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building microservices that power gift cards, credit card rewards, and the Sparks loyalty programme
 - 🤖 Tinkering with AI-assisted developer tooling — MCP servers, RAG pipelines, and GitHub Copilot extensions
-- 🔨 Building [saytoit](https://github.com/rameshreddy-adutla/saytoit) — a voice-first transcription app for macOS
 
 Day-to-day I work with Java 21, Spring Boot, Kubernetes, Azure, Kafka, and PostgreSQL — but I'll reach for TypeScript or Python when it makes sense.
 
