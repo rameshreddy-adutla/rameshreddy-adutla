@@ -5,14 +5,16 @@
 
 Hello 👋 I'm Ramesh — a software engineer based in London.
 
-I spend most of my time building backend services in Java and Spring Boot, usually somewhere in the world of customer loyalty, digital rewards, and payments. I enjoy taking messy legacy systems and turning them into something clean and cloud-native.
+I mostly work on backend services in Java and Spring Boot — batch file processing pipelines, API design with GraphQL federation, and getting things safely into production. I spend a lot of time on the less glamorous stuff that actually matters: observability, deployment automation, feature flags, rollback plans, and making sure things don't break at 2am.
 
 Currently working on:
 
-- 👨🏻‍💻 Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building microservices that power gift cards, credit card rewards, and the Sparks loyalty programme
-- 🤖 Tinkering with AI-assisted developer tooling — MCP servers, RAG pipelines, and GitHub Copilot extensions
+- 👨🏻‍💻 Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building data pipelines and loyalty APIs on Azure and Kubernetes
+- 🐛 Contributing bug fixes to [Apache Gravitino](https://github.com/apache/gravitino) — things like [null-pointer crashes](https://github.com/apache/gravitino/pull/10164) and [metadata persistence failures](https://github.com/apache/gravitino/pull/10167)
+- 🏛️ Building React components for [GOV.UK Design System](https://github.com/rottitime/govuk-design-react) — breadcrumbs, back links, warning text, inset text
+- 🤖 Tinkering with AI-assisted developer tooling — MCP servers, GitHub Copilot extensions, and internal engineering bots
 
-Day-to-day I work with Java 21, Spring Boot, Kubernetes, Azure, Kafka, and PostgreSQL — but I'll reach for TypeScript or Python when it makes sense.
+Day-to-day it's Java 21, Spring Boot, Kubernetes, Azure, Kafka, Terraform, and Dynatrace — but I'll reach for TypeScript or Python when the problem calls for it.
 
 🏏 When I'm not writing code, I'm probably watching cricket or spending time with my family.
 
