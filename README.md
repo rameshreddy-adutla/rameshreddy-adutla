@@ -10,15 +10,10 @@ I spend most of my time building backend services in Java and Spring Boot, usual
 Currently working on:
 
 - 👨🏻‍💻 Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building microservices that power gift cards, credit card rewards, and the Sparks loyalty programme
-- 🌐 Contributing to [Apache Gravitino](https://github.com/apache/gravitino) and [Apache Iceberg](https://github.com/apache/iceberg)
 - 🤖 Tinkering with AI-assisted developer tooling — MCP servers, RAG pipelines, and GitHub Copilot extensions
-
-Some older things I've built:
-
-- 🚢 [maersk-booking-app](https://github.com/rameshreddy-adutla/maersk-booking-app) — a container booking service with capacity management
-- 🧩 [algo-practice](https://github.com/rameshreddy-adutla/algo-practice) — my playground for data structures and algorithms
+- 🔨 Building [saytoit](https://github.com/rameshreddy-adutla/saytoit) — a voice-first transcription app for macOS
 
 Day-to-day I work with Java 21, Spring Boot, Kubernetes, Azure, Kafka, and PostgreSQL — but I'll reach for TypeScript or Python when it makes sense.
 
-🏏 When I'm not writing code, I'm probably watching cricket or exploring parks around Buckinghamshire with my family.
+🏏 When I'm not writing code, I'm probably watching cricket or spending time with my family.
 
