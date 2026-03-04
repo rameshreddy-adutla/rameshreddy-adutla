@@ -21,3 +21,4 @@ Some older things I've built:
 Day-to-day I work with Java 21, Spring Boot, Kubernetes, Azure, Kafka, and PostgreSQL — but I'll reach for TypeScript or Python when it makes sense.
 
 🏏 When I'm not writing code, I'm probably watching cricket or exploring parks around Buckinghamshire with my family.
+
