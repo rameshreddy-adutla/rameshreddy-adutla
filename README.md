@@ -3,9 +3,9 @@
 ![Location](https://img.shields.io/badge/📍%20London,%20UK-brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rameshreddy--adutla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rameshreddy-adutla/)
 
-Hello 👋 I'm Ramesh — a software engineer based in London.
+Hello 👋 I'm Ramesh — I've been building software professionally since 2011, across fintech, retail, and telecom — from JP Morgan and Sky to M&S.
 
-I mostly work on backend services in Java and Spring Boot — batch file processing pipelines, API design with GraphQL federation, and getting things safely into production. I spend a lot of time on the less glamorous stuff that actually matters: observability, deployment automation, feature flags, rollback plans, and making sure things don't break at 2am.
+I mostly work on backend services in Java and Spring Boot — data pipelines, API design with GraphQL federation, and getting things safely into production. I spend a lot of time on the less glamorous stuff that actually matters: observability, deployment automation, feature flags, rollback plans, and making sure things don't break at 2am.
 
 Currently working on:
 
