@@ -9,12 +9,12 @@ I mostly work on backend services in Java and Spring Boot — batch file process
 
 Currently working on:
 
-- 👨🏻‍💻 Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building data pipelines and loyalty APIs on Azure and Kubernetes
+- 👨🏻‍💻 Staff Software Engineer [@marksandspencer](https://github.com/marksandspencer) — building cloud-native services, data pipelines and APIs on Azure and Kubernetes
 - 🐛 Contributing bug fixes to [Apache Gravitino](https://github.com/apache/gravitino) — things like [null-pointer crashes](https://github.com/apache/gravitino/pull/10164) and [metadata persistence failures](https://github.com/apache/gravitino/pull/10167)
 - 🏛️ Building React components for [GOV.UK Design System](https://github.com/rottitime/govuk-design-react) — breadcrumbs, back links, warning text, inset text
 - 🤖 Building [`spring-boot-mcp-starter`](https://github.com/rameshreddy-adutla/spring-boot-mcp-starter) — a Spring Boot starter for building MCP (Model Context Protocol) servers with annotations
 
 Day-to-day it's Java 21, Spring Boot, Kubernetes, Azure, Kafka, Terraform, and Dynatrace — but I'll reach for TypeScript or Python when the problem calls for it.
 
-🏏 When I'm not writing code, I'm probably watching cricket or spending time with my family.
+🏏 When I'm not writing code, I'm probably playing cricket or spending time with my family.
 
