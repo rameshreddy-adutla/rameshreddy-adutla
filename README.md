@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramesh
 
-**Staff Software Engineer** at Marks & Spencer, building cloud-native microservices, APIs, and data pipelines. 14+ years across fintech, retail, and telecom — from JP Morgan and Sky to M&S.
+**Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation), building cloud-native microservices, APIs, and data pipelines. 14+ years across fintech, retail, and telecom — from JP Morgan and Sky to M&S.
 
 Day-to-day I work with Java, Spring Boot, React, Next.js, GraphQL, and event-driven architecture. In my spare time, I'm building free AI education at **[AI Seeds](https://ai-seeds.vercel.app)** and contributing to open source.
 
