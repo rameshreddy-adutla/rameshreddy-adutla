@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ramesh
 
-**Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation), building cloud-native microservices, APIs, and data pipelines.
+**Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation). I work mostly with Java, Spring Boot, React, and Next.js.
 
-Day-to-day I work with Java, Spring Boot, React, Next.js, GraphQL, and event-driven architecture. In my spare time, I'm building free AI education at **[AI Seeds](https://ai-seeds.vercel.app)** and contributing to open source.
+Outside of work I'm building **[AI Seeds](https://ai-seeds.vercel.app)** — a free AI learning platform — and contributing to open source.
 
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
