@@ -2,7 +2,7 @@
 
 **Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation). I work mostly with Java, Spring Boot, React, and Next.js.
 
-Outside of work I'm building **[AI Seeds](https://ai-seeds.vercel.app)** — a free AI learning platform — and contributing to open source.
+I also contribute to open source and tinker with side projects.
 
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
