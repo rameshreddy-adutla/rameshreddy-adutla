@@ -30,19 +30,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
-### Featured Projects
-
-<a href="https://github.com/open-ai-school/ai-seeds">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-ai-school&repo=ai-seeds&theme=github_dark&hide_border=true" alt="AI Seeds" />
-</a>
-<a href="https://github.com/open-ai-school/gitsage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-ai-school&repo=gitsage&theme=github_dark&hide_border=true" alt="GitSage" />
-</a>
-
-**[🌱 AI Seeds](https://open-ai-school.vercel.app)** — Free, multilingual AI education platform. Learn AI from scratch in 5+ languages with interactive TensorFlow.js demos.
-
-**[🧙 GitSage](https://github.com/open-ai-school/gitsage)** — RAG-powered bot that indexes your GitHub org for Copilot Chat. Java 21, LangChain4j, pgvector.
-
 ### Blog
 📝 [I Built a Free AI School for the World](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
 
