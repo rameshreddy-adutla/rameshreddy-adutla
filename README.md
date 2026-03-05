@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://dev.to/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://open-ai-school.vercel.app"><img src="https://img.shields.io/badge/🎓_Open_AI_School-0071e3?style=flat&logoColor=white" alt="Open AI School" height="30" /></a>
 </p>
 
 ### Languages and Tools
