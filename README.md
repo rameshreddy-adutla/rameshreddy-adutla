@@ -2,6 +2,9 @@
 
 **Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation) — I like building things that work well and breaking things that don't. Mostly Java and Spring Boot at work, React and Next.js when I'm not. Big on open source.
 
+When I'm not writing code, I'm probably playing/watching cricket 🏏 or spending time with my family.
+
+
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://open-ai-school.vercel.app"><img src="https://img.shields.io/badge/🎓_Open_AI_School-0071e3?style=flat&logoColor=white" alt="Open AI School" height="30" /></a>
@@ -37,4 +40,3 @@
 
 <p><a href="https://buymeacoffee.com/rameshreddyadutla"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
 
-🏏 When I'm not writing code, I'm probably playing cricket or spending time with my family.
