@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-ai-school&repo=gitsage&theme=github_dark&hide_border=true" alt="GitSage" />
 </a>
 
-**[🌱 AI Seeds](https://ai-seeds.vercel.app)** — Free, multilingual AI education platform. Learn AI from scratch in 5+ languages with interactive TensorFlow.js demos.
+**[🌱 AI Seeds](https://open-ai-school.vercel.app)** — Free, multilingual AI education platform. Learn AI from scratch in 5+ languages with interactive TensorFlow.js demos.
 
 **[🧙 GitSage](https://github.com/open-ai-school/gitsage)** — RAG-powered bot that indexes your GitHub org for Copilot Chat. Java 21, LangChain4j, pgvector.
 
