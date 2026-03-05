@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ramesh
 
-Software engineer based in London. Java, Spring Boot, React, Next.js, and cloud-native things. Currently at Marks & Spencer, building loyalty and digital products.
+**Staff Software Engineer** at Marks & Spencer, building cloud-native microservices, APIs, and data pipelines. 14+ years across fintech, retail, and telecom — from JP Morgan and Sky to M&S.
 
-In my spare time, I'm building free AI education at **[AI Seeds](https://ai-seeds.vercel.app)** and contributing to open-source projects.
+Day-to-day I work with Java, Spring Boot, React, Next.js, GraphQL, and event-driven architecture. In my spare time, I'm building free AI education at **[AI Seeds](https://ai-seeds.vercel.app)** and contributing to open source.
 
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -17,6 +17,7 @@ In my spare time, I'm building free AI education at **[AI Seeds](https://ai-seed
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
