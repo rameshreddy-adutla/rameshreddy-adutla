@@ -34,7 +34,7 @@ When I'm not writing code, I'm probably playing/watching cricket 🏏 or spendin
 </p>
 
 ### Blog
-📝 [I Built a Free AI School for the World](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
+📝 [I Built a Free AI Education Platform for the World](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
 
 ---
 
