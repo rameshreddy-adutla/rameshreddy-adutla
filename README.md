@@ -7,7 +7,7 @@ When I'm not writing code, I'm probably playing/watching cricket 🏏 or spendin
 
 <p>
 <a href="https://linkedin.com/in/rameshreddy-adutla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://openaischool.vercel.app"><img src="https://img.shields.io/badge/🎓_Open_AI_School-0071e3?style=flat&logoColor=white" alt="Open AI School" height="30" /></a>
+<a href="https://aieducademy.vercel.app"><img src="https://img.shields.io/badge/🎓_AI_Educademy-6366f1?style=flat&logoColor=white" alt="AI Educademy" height="30" /></a>
 </p>
 
 ### Languages and Tools
@@ -39,4 +39,3 @@ When I'm not writing code, I'm probably playing/watching cricket 🏏 or spendin
 ---
 
 <p><a href="https://buymeacoffee.com/rameshreddyadutla"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
-
