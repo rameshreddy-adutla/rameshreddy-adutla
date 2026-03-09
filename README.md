@@ -33,9 +33,6 @@ When I'm not writing code, I'm probably playing/watching cricket 🏏 or spendin
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
-### Blog
-📝 [I Built a Free AI Education Platform for the World](https://dev.to/rameshreddy-adutla/i-built-a-free-ai-school-for-the-world-heres-how-you-can-help-4hpf)
-
 ---
 
 <p><a href="https://buymeacoffee.com/rameshreddyadutla"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
