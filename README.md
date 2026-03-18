@@ -31,5 +31,3 @@ When I'm not writing code, I'm probably playing/watching cricket 🏏 or spendin
 </p>
 
 ---
-
-<p><a href="https://buymeacoffee.com/rameshreddyadutla"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
