@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramesh
 
-**Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation) — I like building things that work well and breaking things that don't. Mostly Java and Spring Boot at work, React and Next.js when I'm not. Big on open source.
+**Staff Software Engineer** at [**@Marks & Spencer**](https://github.com/DigitalInnovation) - I like building things that work well and breaking things that don't. Mostly Java and Spring Boot at work, React and Next.js when I'm not. Big on open source.
 
 When I'm not writing code, I'm probably playing/watching cricket 🏏 or spending time with my family.
 
